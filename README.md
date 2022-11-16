@@ -6,7 +6,6 @@
 
 💻 Estudando Desenvolvimento Web na  <a href="https://www.betrybe.com" target="_blank"> Trybe</a> - Turma 23 
 
-Repositório <a href="https://github.com/julianamq/exerciciostrybe" target="_blank"> trybe-exercicios</a> com exercicios de cada bloco do curso.
 
  <p> Me chame no WhatsApp , segue o link <a href ="https://wa.me/qr/MNC3ENX3GYCZO1" target= "_blank"> </p>
  
