@@ -2,14 +2,13 @@
 # Me chamo Juliana
 
 
-👩‍🎓 Formada Tecnologia em Processos Gerênciais,ao longo da carreira todos os caminhos me levaram e me prepararam a este momento de aprender a programar.  
+👩‍🎓 Formada Tecnologia em Processos Gerênciais em 2011, fazendo transição de carreira para a área de programação desde Abril de 2022.  
+
 
 💻 Estudando Desenvolvimento Web na  <a href="https://www.betrybe.com" target="_blank"> Trybe</a> - Turma 23 
 
 
- <p> Me chame no WhatsApp , segue o link <a href ="https://wa.me/qr/MNC3ENX3GYCZO1" target= "_blank"> </p>
  
-
  ##
     
 <div> 
